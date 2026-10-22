@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341792041207",
+    "firebase_url": "https://project-binary-blizt-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-binary-blizt",
+    "storage_bucket": "project-binary-blizt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341792041207:android:fa3c22ffeb0c06ce3e4bf2",
+        "android_client_info": {
+          "package_name": "com.example.binary_blitz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRatQOfXyxBAvb5FNVcWbwQcB6NGGkjdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
